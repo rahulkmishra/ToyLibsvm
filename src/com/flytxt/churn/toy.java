@@ -1,4 +1,4 @@
-package com.flytxt.churn;
+package com.toy;
 
 import java.io.BufferedOutputStream;
 import java.io.BufferedReader;
@@ -12,11 +12,11 @@ import java.util.Vector;
 import libsvm.*;
 
 /**
- * A prototype for churn prediction of the mobile subscribers using LibSVM [<a href="http://www.csie.ntu.edu.tw/~cjlin/libsvm/">http://www.csie.ntu.edu.tw/~cjlin/libsvm/</a>]
+ * A prototype for classification using LibSVM [<a href="http://www.csie.ntu.edu.tw/~cjlin/libsvm/">http://www.csie.ntu.edu.tw/~cjlin/libsvm/</a>]
  * @author rahul.mishra
  *
  */
-public class churntoy {
+public class toy {
 
 	
 	/**
